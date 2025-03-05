@@ -1,4 +1,5 @@
 # 📊 Sistema de Avaliação de Conhecimento: 
+# O Projeto está em fase de desenvolvimento.
 https://avaliacao-bice.vercel.app/
 
 Este é um sistema de **avaliação de conhecimento** desenvolvido com [Next.js](https://nextjs.org), inicializado com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). O objetivo é fornecer uma experiência dinâmica para responder a questionários, acompanhar o progresso e visualizar os resultados em tempo real.
